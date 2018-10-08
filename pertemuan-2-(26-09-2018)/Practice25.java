@@ -16,8 +16,7 @@ class Practice25 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);        
         String nama;
-
-        System.out.println("\n======== Program Perbandungan Nilai ========\n\n");
+    
         System.out.print("Masukan Nama depan anda untuk di eja : ");
         nama = scanner.nextLine();
         
