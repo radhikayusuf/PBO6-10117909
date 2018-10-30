@@ -8,7 +8,7 @@
  * Description : Program Jumlah & selisih
  *
  */
-public class Practice58 {
+public class Practice57 {
     
     public static void main(String[] args) {                       
         JumlahBilangan jumlahBilangan = new JumlahBilangan(3, 4);
