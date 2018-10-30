@@ -8,5 +8,4 @@ public class SelisihBilangan extends Bilangan{
         System.out.println("Hasil selisih "+ getX() + " - " + getY() +" = " + (getX() - getY()));
     }
     
-    
 }

@@ -5,10 +5,10 @@
  * KELAS	: PBO6
  * NIM		: 10117909
  * 
- * Description : Program Jumlah & selisih
+ * Description : Program untuk menghitung bangun ruang
  *
  */
-public class Practice58 {
+public class Practice61 {
     
     public static void main(String[] args) {                       
         JumlahBilangan jumlahBilangan = new JumlahBilangan(3, 4);
